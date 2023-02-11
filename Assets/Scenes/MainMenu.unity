@@ -19232,7 +19232,28 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: jefhbfhwefahefhbehfehjifbjanfjnjefnjsnafjnjkdnjknjksdnjknkjdnfjnjkenfnejfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfkfk072139gujbwdjiqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqbdw
+  m_text: 'Hello and welcome, here are the keybinds for the game.
+
+
+    WASD - Locomotion
+
+    E
+    - Interact
+
+    ESC - Pause
+
+    Space - Jump
+
+    Mouse0- Attack
+
+    Mouse1
+    - Special Attack
+
+    Left Shift - Run
+
+
+    To move the camera and player around
+    use the mouse'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d78c9379e5c45d54ea7d37c3612c3840, type: 2}
   m_sharedMaterial: {fileID: 2848958967426086629, guid: d78c9379e5c45d54ea7d37c3612c3840,
@@ -19260,10 +19281,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
+  m_fontSize: 35.45
   m_fontSizeBase: 36
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
